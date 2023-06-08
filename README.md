@@ -5,6 +5,4 @@ Currently I am working with Golang but you may see some Python here and there.
 
 It is my intention to eventually begin actively contributing to the various open source projects I've used over the years. Once my skills are up to par anyway.
 
----
-
 Feel free to send a PM if you need to get a hold of me.
